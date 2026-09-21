@@ -1,10 +1,10 @@
-# Rahul Raj
+# Rahul Raj V C
 
 **Identity and Security Analyst | IAM, OT Security and Automation**
 
 Nearly four years across identity and access management, OT security monitoring, and security automation. Promoted from IAM Trainee to Associate Analyst at CDW and now strengthening AI-assisted development skills while seeking opportunities in AI engineering, AI security, and intelligent automation.
 
-[Resume portfolio](https://vcrahulraj.github.io/) · [Download resume](https://vcrahulraj.github.io/assets/Rahul_Raj_Resume.pdf)
+[Resume portfolio](https://vcrahulraj.github.io/) · [Download resume](https://vcrahulraj.github.io/assets/Rahul_Raj_V_C_Resume.pdf)
 
 ## Professional Experience
 
