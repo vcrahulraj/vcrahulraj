@@ -46,20 +46,20 @@ Nearly four years across identity and access management, OT security monitoring,
 
 ## Certifications
 
-- SailPoint Certified IdentityIQ Associate — January 2025
-- Claroty Cybersecurity Analyst — May 2025
 - Claroty Implementation Engineer – IND (CIE 401) — December 2025
+- Claroty Cybersecurity Analyst — May 2025
+- SailPoint Certified IdentityIQ Associate — January 2025
 - IBM Certified Analyst – Security QRadar SIEM V7.4.3 — August 2022
 
 ## Personal AI and Security Projects
 
-### [AccessLens — IAM Access Review Assistant](https://github.com/vcrahulraj/accesslens-iam-copilot)
+### [AccessLens — IAM Access Review Assistant](https://vcrahulraj.github.io/projects/accesslens.html)
 
 An AI-assisted learning project that reviews fictional SailPoint-style entitlement data, identifies common access risks, and prepares manager reports while keeping every access decision with a person.
 
 **Verification:** 11 automated tests · four safety checks · no production connector · no employer data
 
-### [OT Security Alert Triage Assistant](https://github.com/vcrahulraj/ot-security-triage-agent)
+### [OT Security Alert Triage Assistant](https://vcrahulraj.github.io/projects/ot-security-triage.html)
 
 An AI-assisted learning project that turns fictional OT alerts into structured risk summaries, response steps, and analyst escalation drafts for human review.
 
