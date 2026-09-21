@@ -1,4 +1,4 @@
-# Rahul Raj V C
+# Rahulraj V C
 
 **Identity and Security Analyst | IAM, OT Security and Automation**
 
