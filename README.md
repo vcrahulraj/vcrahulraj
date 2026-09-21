@@ -1,8 +1,8 @@
 # Rahul Raj
 
-**IAM and OT Security Analyst | AI Security and Automation**
+**Identity and Security Analyst | IAM, OT Security and Automation**
 
-Nearly four years across identity and access management, OT security monitoring, and security automation. Promoted from IAM Trainee to Associate Analyst at CDW and now building toward AI Security, Generative AI, RAG, agentic AI, and automation engineering roles.
+Nearly four years across identity and access management, OT security monitoring, and security automation. Promoted from IAM Trainee to Associate Analyst at CDW and now strengthening AI-assisted development skills while seeking opportunities in AI engineering, AI security, and intelligent automation.
 
 [Resume portfolio](https://vcrahulraj.github.io/) · [Download resume](https://vcrahulraj.github.io/assets/Rahul_Raj_Resume.pdf)
 
@@ -13,7 +13,7 @@ Nearly four years across identity and access management, OT security monitoring,
 **April 2024–Present · Bangalore, Karnataka, India**
 
 - Created internal web and PowerShell tools for monthly IAM audit reporting, employee-transfer reviews, and bulk shared-mailbox permissions.
-- Review SailPoint IdentityIQ entitlements for employee transfers and coordinate access-removal decisions through managers and ServiceNow.
+- Support Active Directory groups and password administration, Okta password resets, Microsoft 365 licensing, and Exchange requests through ServiceNow.
 - Track Claroty alerts, vulnerabilities, service availability, connectivity, and degraded traffic, then route findings to the responsible teams.
 
 ### IAM Trainee — CDW
@@ -21,7 +21,7 @@ Nearly four years across identity and access management, OT security monitoring,
 **November 2022–March 2024 · Bangalore, Karnataka, India**
 
 - Handled identity lifecycle work for employee transfers and terminations, including entitlement review, manager validation, and access-removal coordination.
-- Supported Active Directory, Okta, Microsoft 365, Exchange, and ServiceNow administration.
+- Reviewed SailPoint IdentityIQ entitlements for employee transfers and coordinated access-removal decisions through managers and ServiceNow.
 
 ### Security Analyst Intern — Sirius Computer Solutions
 
@@ -42,7 +42,7 @@ Nearly four years across identity and access management, OT security monitoring,
 
 **Security operations:** Claroty, vulnerability and alert triage, asset and service availability, connectivity monitoring, IBM QRadar SIEM
 
-**Automation and AI security:** Python, Streamlit, PowerShell, Pydantic, Generative AI, RAG, LLM output validation, prompt-injection safeguards, deterministic controls, human-in-the-loop review, Docker, Git
+**Automation and AI-assisted development:** PowerShell, Codex, Claude Code, Python-based web application prototyping, prompt-led development, functional testing, output review, documentation, Git, Linux, VS Code
 
 ## Certifications
 
@@ -53,15 +53,15 @@ Nearly four years across identity and access management, OT security monitoring,
 
 ## Personal AI and Security Projects
 
-### [AccessLens — Secure IAM Access Review Copilot](https://github.com/vcrahulraj/accesslens-iam-copilot)
+### [AccessLens — IAM Access Review Assistant](https://github.com/vcrahulraj/accesslens-iam-copilot)
 
-A Python and Streamlit portfolio app that reviews synthetic SailPoint-style identity and entitlement data, flags access risks, uses RAG to find relevant policy guidance, and prepares manager-ready reports with human review.
+An AI-assisted learning project that reviews fictional SailPoint-style entitlement data, identifies common access risks, and prepares manager reports while keeping every access decision with a person.
 
-**Verification:** 11 automated tests · 4/4 adversarial prompt-injection evaluations · no production connector · no client data
+**Verification:** 11 automated tests · four safety checks · no production connector · no employer data
 
-### [OT Security Alert Triage Agent](https://github.com/vcrahulraj/ot-security-triage-agent)
+### [OT Security Alert Triage Assistant](https://github.com/vcrahulraj/ot-security-triage-agent)
 
-A Python and Streamlit portfolio tool that turns synthetic OT alerts into explainable risk summaries, uses RAG to find runbook guidance, and prepares response plans and analyst escalation drafts.
+An AI-assisted learning project that turns fictional OT alerts into structured risk summaries, response steps, and analyst escalation drafts for human review.
 
 **Verification:** 23 automated tests · five synthetic scenarios · deterministic fallback · no autonomous remediation
 
